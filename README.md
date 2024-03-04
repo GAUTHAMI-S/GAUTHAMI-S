@@ -5,7 +5,7 @@
 
 
 <h2></h2>
-- 🌱 I’m currently learning <b>HTML, CSS, JAVASCRIPT, NODEJS.</b>
+- 🌱 I’m currently learning <b>HTML, CSS, JAVASCRIPT, NODEJS. REACT, SVELTE</b>
 <h2></h2>
 
 
